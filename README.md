@@ -1,5 +1,8 @@
 ## Test BE
 
+## Preview
+<img src="./public/img/admin.1.1.png" alt="GitHub Logo" style="zoom:50%;" />
+<img src="./public/img/admin.1.2.png" alt="GitHub Logo" style="zoom:50%;" />
 
 ## Technology
 
