@@ -39,11 +39,10 @@
 - Download / Clone from github
 - run migration and seeding
   ```
-php artisan migrate:fresh --seed
+  php artisan migrate:fresh --seed
   ```
 
 - run NPM watch
-
   ```
   npm run watch
   ```
