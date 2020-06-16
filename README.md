@@ -14,5 +14,44 @@
 - [Vue Progress Bar](http://hilongjw.github.io/vue-progressbar/)
 - [Sweet Alert 2](https://sweetalert2.github.io/)
 
-## Improving for You
-- Implementing Laravel Convention: Not yet [Model Conventions](https://laravel.com/docs/7.x/eloquent#eloquent-model-conventions)
+
+
+
+
+
+## Implement
+- Laravel Naming Conventions
+- RESTful API
+- History mode for Vue js
+
+
+
+
+
+## Features
+- CRUD Product
+
+
+
+
+
+## Getting Started
+- Download / Clone from github
+- run migration and seeding
+  ```
+php artisan migrate:fresh --seed
+  ```
+
+- run NPM watch
+
+  ```
+  npm run watch
+  ```
+
+
+
+> NB
+>
+> Subcategory: defaulf is Null
+>
+> You can set up subcategory by manually or by update
