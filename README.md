@@ -37,12 +37,27 @@
 
 ## Getting Started
 - Download / Clone from github
+
+- Set up your database in .env file
+
+- Install composer
+  ```
+  composer install
+  ```
+
+- Generate Key
+  ```
+  php artisan key:generate
+  ```
+  
 - run migration and seeding
   ```
   php artisan migrate:fresh --seed
   ```
 
-- run NPM watch
+- create new account  
+
+- run NPM watch (if need)
   ```
   npm run watch
   ```
