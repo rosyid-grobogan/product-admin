@@ -4,6 +4,7 @@
 <img src="./public/img/admin.1.1.png" alt="GitHub Logo" style="zoom:50%;" />
 <img src="./public/img/admin.1.2.png" alt="GitHub Logo" style="zoom:50%;" />
 
+
 ## Technology
 
 - [Laravel 7](https://laravel.com/)
@@ -26,13 +27,15 @@
 - Laravel Naming Conventions
 - RESTful API
 - History mode for Vue js
-
+- Seeder and Factory (Dummny Data)
+- Validation
 
 
 
 
 ## Features
 - CRUD Product
+- Admin Page
 
 
 
